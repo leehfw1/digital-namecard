@@ -5,10 +5,10 @@ N:Test;HFW;;;
 FN: HFW  Test 
 ORG:blahblah;
 TITLE:Jack of all Trades\nMaster of none
-EMAIL;type=INTERNET;type=WORK;type=pref:hfw@data.gov.sg
+EMAIL;type=INTERNET;type=WORK;type=pref:aiza.lee@hfw.com
 TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;10 Collyer Quay\nSandcrawler\, 09-01;;;000020;Singapore
+item1.ADR;type=WORK;type=pref:;;10 Collyer Quay\, #18-01;;;049315;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.hfw.com/Home
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
